@@ -34,15 +34,11 @@ based_in  : Indonesia
 
 <br/>
 
-## STATS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yt-bads&show_icons=true&hide_border=true&bg_color=EFE8DE&title_color=1664B0&text_color=1664B0&icon_color=D21624" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yt-bads&layout=compact&hide_border=true&bg_color=EFE8DE&title_color=1664B0&text_color=1664B0" />
-
-<img src="https://streak-stats.demolab.com/?user=yt-bads&hide_border=true&background=EFE8DE&stroke=1664B0&ring=D21624&fire=D21624&currStreakLabel=1664B0&sideLabels=1664B0&currStreakNum=1664B0&sideNums=1664B0&dates=1664B080" />
-
+## STATS 
+<div align="center"> 
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yt-bads&show_icons=true&hide_border=true&bg_color=EFE8DE&title_color=1664B0&text_color=1664B0&icon_color=D21624" /> 
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yt-bads&layout=compact&hide_border=true&bg_color=EFE8DE&title_color=1664B0&text_color=1664B0" /> 
+  <img src="https://streak-stats.demolab.com/?user=yt-bads&hide_border=true&background=EFE8DE&stroke=1664B0&ring=D21624&fire=D21624&currStreakLabel=1664B0&sideLabels=1664B0&currStreakNum=1664B0&sideNums=1664B0&dates=1664B080" /> 
 </div>
 
 <br/>
