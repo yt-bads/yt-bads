@@ -5,7 +5,7 @@
 
 <br/>
 
-# 👋 Hi Everyone, I'm Bragi
+<h1>👋 Hi Everyone, I'm Bragi</h1>
 
 <!-- Efek Ngetik (Typing SVG) dengan warna Candy Blue -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Freelance+Web+Developer;Aspiring+AI+Engineer;Building+SuaraTamu+(E-CRM)" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 
 <br/>
 
-### ⚡ Daily Driver & Tools
+<h3>⚡ Daily Driver & Tools</h3>
 
 <p><strong>Core Stack</strong></p>
 <img src="https://img.shields.io/badge/PHP-353839?style=for-the-badge&logo=php&logoColor=00BFFF" alt="PHP"/>
@@ -35,29 +35,49 @@
 
 <br/><br/>
 
-### 🚀 Featured Projects
-</div>
+<h3>🚀 Featured Projects</h3>
 
-| 📂 Project | 📝 Description | 🛠️ Stack |
-| :--- | :--- | :--- |
-| **SuaraTamū** | E-CRM system for customer satisfaction (Thesis Project) | `PHP` `MySQL` |
-| **MTM POS** | Point of Sale & Inventory Management System | `PHP` |
-| **BGtours** | Travel & tour booking landing page | `HTML` `CSS` |
-| **Reservasi-Vila** | Web-based villa reservation system | `PHP` |
+<!-- Tabel udah diganti ke format HTML biar bisa rata tengah -->
+<table align="center">
+  <tr>
+    <th align="center">📂 Project</th>
+    <th align="center">📝 Description</th>
+    <th align="center">🛠️ Stack</th>
+  </tr>
+  <tr>
+    <td><b>SuaraTamū</b></td>
+    <td>E-CRM system for customer satisfaction (Thesis Project)</td>
+    <td><code>PHP</code> <code>MySQL</code></td>
+  </tr>
+  <tr>
+    <td><b>MTM POS</b></td>
+    <td>Point of Sale & Inventory Management System</td>
+    <td><code>PHP</code></td>
+  </tr>
+  <tr>
+    <td><b>BGtours</b></td>
+    <td>Travel & tour booking landing page</td>
+    <td><code>HTML</code> <code>CSS</code></td>
+  </tr>
+  <tr>
+    <td><b>Reservasi-Vila</b></td>
+    <td>Web-based villa reservation system</td>
+    <td><code>PHP</code></td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
+<h3>📈 GitHub Stats</h3>
 
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=yt-bads&show_icons=true&hide_border=true&bg_color=353839&title_color=00BFFF&text_color=E0E0E0&icon_color=00BFFF" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yt-bads&layout=compact&hide_border=true&bg_color=353839&title_color=00BFFF&text_color=E0E0E0" height="165" alt="Top Langs"/>
+<!-- Parameter API udah dikasih cache-busting (&v=2) -->
+<img src="https://github-readme-stats.vercel.app/api?username=yt-bads&show_icons=true&hide_border=true&bg_color=353839&title_color=00BFFF&text_color=E0E0E0&icon_color=00BFFF&v=2" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yt-bads&layout=compact&hide_border=true&bg_color=353839&title_color=00BFFF&text_color=E0E0E0&v=2" height="165" alt="Top Langs"/>
 
 <br/><br/>
 
 <p><strong>Let's Connect</strong></p>
-<a href="https://youtube.com/@yt-bads"><img src="https://img.shields.io/badge/YouTube-353839?style=for-the-badge&logo=youtube&logoColor=00BFFF" alt="YouTube"/></a>
+<a href="url?id=32"><img src="https://img.shields.io/badge/YouTube-353839?style=for-the-badge&logo=youtube&logoColor=00BFFF" alt="YouTube"/></a>
 <a href="mailto:bragi.aryadwi@gmail.com"><img src="https://img.shields.io/badge/Gmail-353839?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Gmail"/></a>
 
 </div>
