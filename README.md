@@ -55,14 +55,14 @@
     <td><code>PHP</code></td>
   </tr>
   <tr>
-    <td><b>BGtours</b></td>
-    <td>Travel & tour booking landing page</td>
-    <td><code>HTML</code> <code>CSS</code></td>
+    <td><b>spk-wp</b></td>
+    <td>Sistem Pendukung Keputusan + Weight Product</td>
+    <td><code>PHP</code> <code>Bulma</code></td>
   </tr>
   <tr>
-    <td><b>Reservasi-Vila</b></td>
-    <td>Web-based villa reservation system</td>
-    <td><code>PHP</code></td>
+    <td><b>car-rental-system</b></td>
+    <td>A comprehensive web-based Car Rental Management System</td>
+    <td><code>PHP</code> <code>mPDF</code></td>
   </tr>
 </table>
 
