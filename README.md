@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Avatar / Gambar Header -->
-<img src="https://i.pinimg.com/736x/9e/0e/5b/9e0e5bfe9a6702b1907c3e5a7b0bed2c.jpg" height="180" style="border-radius: 10px;" alt="Avatar"/>
+<img src="https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" height="180" style="border-radius: 10px;" alt="Avatar"/>
 
 <br/>
 
@@ -77,7 +77,7 @@
 <br/><br/>
 
 <p><strong>Let's Connect</strong></p>
-<a href="url?id=32"><img src="https://img.shields.io/badge/YouTube-353839?style=for-the-badge&logo=youtube&logoColor=00BFFF" alt="YouTube"/></a>
+<a href="https://www.youtube.com/@yt-bads"><img src="https://img.shields.io/badge/YouTube-353839?style=for-the-badge&logo=youtube&logoColor=00BFFF" alt="YouTube"/></a>
 <a href="mailto:bragi.aryadwi@gmail.com"><img src="https://img.shields.io/badge/Gmail-353839?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Gmail"/></a>
 
 </div>
