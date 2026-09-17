@@ -71,9 +71,9 @@
 <h3>📈 GitHub Stats</h3>
 
 <!-- Parameter API udah dikasih cache-busting (&v=2) -->
-<img src="https://github-readme-stats.vercel.app/api?username=yt-bads&amp;show_icons=true&amp;hide_border=true&amp;bg_color=353839&amp;title_color=00BFFF&amp;text_color=E0E0E0&amp;icon_color=00BFFF&amp;v=2" height="165" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=yt-bads&amp;show_icons=true&amp;hide_border=true&amp;bg_color=353839&amp;title_color=00BFFF&amp;text_color=E0E0E0&amp;icon_color=00BFFF&amp;v=2" height="165" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yt-bads&amp;layout=compact&amp;hide_border=true&amp;bg_color=353839&amp;title_color=00BFFF&amp;text_color=E0E0E0&amp;v=2" height="165" alt="Top Langs"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=yt-bads&amp;layout=compact&amp;hide_border=true&amp;bg_color=353839&amp;title_color=00BFFF&amp;text_color=E0E0E0&amp;v=2" height="165" alt="Top Langs"/>
 
 <br/><br/>
 
